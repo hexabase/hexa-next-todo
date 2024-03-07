@@ -8,7 +8,9 @@ Install
 npm install
 ```
 
-First, run the development server:
+Rename _bak.env to .env
+
+Then, run the development server:
 
 ```bash
 npm run dev
